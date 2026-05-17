@@ -73,26 +73,6 @@ npx http-server
 
 Then visit `http://localhost:8000` in your browser.
 
-## 🎯 Key Features Explained
-
-### Spotlight Cursor Effect
-A large circular gradient follows your cursor, creating an elegant spotlight effect that highlights content as you explore the page.
-
-### Hover Interactions
-- Experience items and projects get highlighted when you hover over them
-- Subtle background color change and shadow effect
-- Smooth transitions for professional feel
-
-### Responsive Navigation
-- Sticky navigation bar that shrinks on scroll
-- Active state tracking based on scroll position
-- Mobile-friendly hamburger menu (on small screens)
-
-### Scroll Animations
-- Sections fade in as you scroll down the page
-- Intersection Observer API for performance
-- Smooth, non-intrusive animations
-
 ## 📊 Performance
 
 - **Lightweight**: No heavy frameworks or libraries
@@ -111,27 +91,6 @@ Edit the CSS custom properties in `styles.css`:
   /* ... other colors */
 }
 ```
-
-### Modifying Content
-Update the HTML in `index.html` to change:
-- Personal information
-- Experience details
-- Project descriptions
-- Contact information
-
-### Adjusting Animations
-Modify timing and effects in `script.js` and `styles.css`:
-- Spotlight size and opacity
-- Hover effect intensity
-- Scroll animation timing
-
-## 📄 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## 🤝 Contributing
 
@@ -162,7 +121,6 @@ This project is open source and available for personal use.
 For any questions or opportunities, feel free to reach out:
 - **Email**: yashbhuva152@gmail.com
 - **Phone**: +91 97248 97847
-- **Location**: Surat, Gujarat, India
 
 ---
 
